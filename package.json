@@ -29,7 +29,6 @@
     "src/**/*.vue"
   ],
   "dependencies": {
-    "plyr": "^3.6.2",
     "vue": "^2.6.12"
   },
   "devDependencies": {
